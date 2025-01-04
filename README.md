@@ -2,12 +2,6 @@
 
 Welcome to the **app-v2-gql-client**! This is a React application built with TypeScript and Apollo Client. It provides a simple interface for displaying locations fetched from a GraphQL API. Let's dive in! 🚀
 
-## 📖 Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
 ## 🛠️ Installation
 
 1. **Clone the repository**:
